@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/aopalliance-repackaged-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/hk2-api-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/hk2-locator-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/hk2-utils-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jakarta.json.bind-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jakarta.json-1.1.5-module.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jakarta.json-api-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/javax.inject-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jaxrs-ri-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-client-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-common-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-container-servlet-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-container-servlet-core-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-guava-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-media-jaxb-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/jersey-server-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/intel/Desktop/jee_vfinal/ressources/yasson-1.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
